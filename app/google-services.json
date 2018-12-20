@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "557302274724",
+    "firebase_url": "https://androidprojects-555b3.firebaseio.com",
+    "project_id": "androidprojects-555b3",
+    "storage_bucket": "androidprojects-555b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557302274724:android:aff02dd8b8464d41",
+        "android_client_info": {
+          "package_name": "utdallas.students.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557302274724-eg2096i3m4qr1rm7h6qa4bukd0v9kiuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "utdallas.students.myapplication",
+            "certificate_hash": "93d716177c82431209ace9ac4475ccf0ef6a5296"
+          }
+        },
+        {
+          "client_id": "557302274724-bqu9o8fvpb5g20dpgsvqctvlfv0thfn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDojhMwa7EBYBcRwmpFah5G0RqYO6k4IUI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557302274724-bqu9o8fvpb5g20dpgsvqctvlfv0thfn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
